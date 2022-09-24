@@ -138,4 +138,4 @@ def test_render_world_map():
 # Make sure the following call to test_render_world_map is commented
 # out when submitting to OwlTest/CourseraTest.
 
-# test_render_world_map()
+test_render_world_map()
